@@ -53,15 +53,15 @@ Unique features:
 
 # 🌐 API REFERENCE AFTER DEPLOYMENT
 
-<img width="1915" height="848" alt="API Reference After Deployment" src="https://github.com/user-attachments/assets/ecba1b1e-6a98-454d-a56d-0cdca91c10da" />
+<img width="1915" height="848" alt="API Reference After Deployment" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%20.png" />
 
 # 🚀 DEPLOYMENT & PREVIEW
 
-<img width="1916" height="869" alt="Deployment   Preview" src="https://github.com/user-attachments/assets/251609d0-f1fa-4719-a685-938eccad721b" />
+<img width="1916" height="869" alt="Deployment   Preview" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095313.png" />
 
 # 🎯 RESULTS
 
-<img width="919" height="868" alt="Results" src="https://github.com/user-attachments/assets/995efe8f-698e-4ea3-a38c-516c0b23c506" />
+<img width="919" height="868" alt="Results" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095347.png" />
 
 # 👉 CONCLUSION 
 
@@ -87,26 +87,26 @@ https://github.com/Amangp12
 # ✅️ IBM CERTIFICATIONS
 
 # GETTING STARTED WITH AI CERTIFICATE
-![Getting Started with Artificial Intelligence_page-0001](https://github.com/user-attachments/assets/7265bf05-5918-4f6c-a1e8-900577f42bf6)
+![Getting Started with Artificial Intelligence_page-0001](https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20094922.png)
 
 # JOURNEY TO CLOUD CERTIFICATE
-![Journey to Cloud Envisioning Your Solution_page-0001](https://github.com/user-attachments/assets/bd2fea3d-e071-44ac-a32c-2278b74a0bdb)
+![Journey to Cloud Envisioning Your Solution_page-0001](https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20094905.png)
 
 
 
 # 📷 SCREENSHOTS
 
 # 🏞️ RESOURCES
-<img width="1916" height="861" alt="Screenshot 2025-07-31 145114" src="https://github.com/user-attachments/assets/f83d3e33-cd9d-4ccc-82ec-4bdf4e1d6eef" />
+<img width="1916" height="861" alt="Screenshot 2025-07-31 145114" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095408.png" />
 
 # 🏞️ TOOLS
-<img width="1919" height="863" alt="Screenshot 2025-07-31 144827" src="https://github.com/user-attachments/assets/eda40bc2-a3ba-472c-a154-68f1f0276d28" />
+<img width="1919" height="863" alt="Screenshot 2025-07-31 144827" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095500.png" />
 
 # 🏞️ QUICK QUESTIONS
-<img width="1919" height="848" alt="Screenshot 2025-07-31 144744" src="https://github.com/user-attachments/assets/4967b824-a705-4b4f-83f0-187daff678aa" />
+<img width="1919" height="848" alt="Screenshot 2025-07-31 144744" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095513.png" />
 
 # 🏞️ AGENT INSTRUCTIONS
-<img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/user-attachments/assets/7f0e1860-c072-4c4d-b127-f3b2f61136cc" />
+<img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/Amangp12/TRAVEL-PLANNER-AI-AGENT-IBM/blob/main/Screenshot%202026-04-05%20095530.png" />
 
 
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKED IN 
